@@ -122,4 +122,4 @@ def get_nfts():
 
 
 if __name__ == "__main__":
-    application.run(host='0.0.0.0')
+    app.run(host='0.0.0.0')
